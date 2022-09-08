@@ -6,6 +6,5 @@ module.exports = {
   "onboarding": false,
   "platform": "github",
   "includeForks": true,
-  "autodiscover": true,
   "repositories": ["misohu/renovate-action-app"]
 };
