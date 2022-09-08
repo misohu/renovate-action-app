@@ -6,6 +6,7 @@ module.exports = {
   "onboarding": false,
   "platform": "github",
   "includeForks": true,
+  "autodiscover": true,
   "pip_requirements": {
     "fileMatch": ["requirements.txt"]
   },
