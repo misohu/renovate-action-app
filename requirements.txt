@@ -8,7 +8,7 @@ cffi==1.14.1
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.4.2
-defusedxml==0.6.0
+defusedxml==0.7.1
 entrypoints==0.3
 idna==2.10
 importlib-metadata==1.7.0
