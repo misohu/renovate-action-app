@@ -7,7 +7,5 @@ module.exports = {
   "platform": "github",
   "includeForks": true,
   "autodiscover": true,
-  "pip_requirements": {
-    "fileMatch": ["requirements.txt"]
-  },
+  "repositories": ["misohu/renovate-action-app"]
 };
